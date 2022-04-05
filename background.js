@@ -2,7 +2,7 @@ const DELAY_IN_MS = 3000;
 const VIDEO_LENGTH_IN_MS = 20000;
 
 const VIDEO_HTML_STRING =
-  "<video autoplay loop style='height: 100vh; width: 100vw'><source src='https://raw.githubusercontent.com/Roystbeef/Cenafy/master/cena.webm' type='video/webm'><source src='https://raw.githubusercontent.com/Roystbeef/Cenafy/master/cena.mp4' type='video/mp4'></video>";
+  "<video autoplay loop style='height: 100vh; width: 100vw'><source src='https://github.com/DutchBoz/JumpSafet/blob/main/SafetIsovic-BosnaMoja.webm' type='video/webm'><source src='https://github.com/DutchBoz/JumpSafet/blob/main/SafetIsovic-BosnaMoja.mp4' type='video/mp4'></video>";
 
 function JumpSafet {
   setTimeout(() => {
