@@ -10,7 +10,7 @@ function JumpSafet {
     body.innerHTML = VIDEO_HTML_STRING;
     body.style.backgroundColor = "black";
     setTimeout(() => {
-      // Wait 20 seconds for cena to finish
+      // Waiting for video to finish
       window.location.replace(document.URL);
     }, VIDEO_LENGTH_IN_MS);
   }, DELAY_IN_MS);
